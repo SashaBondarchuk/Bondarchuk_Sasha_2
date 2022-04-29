@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\bin\Debug\lab2_1.exe.config
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\bin\Debug\lab2_1.exe
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\bin\Debug\lab2_1.pdb
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\obj\Debug\lab2_1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\obj\Debug\lab2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\obj\Debug\lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\obj\Debug\lab2_1.exe
+C:\Users\ASUS\Desktop\лаби оп\lab2\lab2_1\obj\Debug\lab2_1.pdb
